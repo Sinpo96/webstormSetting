@@ -1,0 +1,171 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/chrome" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="agreement" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__q.aiyongtech.com_wechat_agreement.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__q.aiyongtech.com_wechat_agreement.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="animate" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_css_animate.min.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_css_animate.min.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="blue" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_css_colors_blue.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_css_colors_blue.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@3.3.7_dist_css_bootstrap.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_bootstrap_css_bootstrap.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_bootstrap_js_bootstrap.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@3.3.7_dist_css_bootstrap.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_bootstrap_css_bootstrap.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_bootstrap_js_bootstrap.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="custom" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_css_custom.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_css_custom.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="ei-icon" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_css_ei-icon.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_css_ei-icon.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="fundebug.2.0.0" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.fundebug.cn_fundebug.2.0.0.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_js.fundebug.cn_fundebug.2.0.0.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-2.1.4" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.4." />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_js_jquery-2.1.4.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_js_jquery-2.1.4.min.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="magnific-popup" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_magnific-popup_css_magnific-popup.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_magnific-popup_css_magnific-popup.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="main" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_css_main.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_css_main.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="swiper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_swiper_css_swiper.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_swiper_css_swiper.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="waypoints" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_counter-up_waypoints.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_counter-up_waypoints.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="windvane" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__g.alicdn.com_mtb_lib-windvane_3.0.0_windvane.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__g.alicdn.com_mtb_lib-windvane_3.0.0_windvane.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="YTPlayer" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_youtube-player_css_YTPlayer.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_youtube-player_css_YTPlayer.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
