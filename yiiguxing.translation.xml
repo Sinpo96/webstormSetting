@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="st" />
+      <item value="test" />
+      <item value="customer Arr" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1610432396860" />
+  </component>
+</application>
