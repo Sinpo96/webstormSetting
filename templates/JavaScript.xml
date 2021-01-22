@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="notes" value="/*&#10;* @desc &#10;* @author Sinpo&#10;* @time $date$ $time$&#10;*/" description="函数注释" toReformat="true" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
