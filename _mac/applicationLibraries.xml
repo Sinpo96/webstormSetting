@@ -43,12 +43,14 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@3.3.7_dist_css_bootstrap.css" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_bootstrap_css_bootstrap.css" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_bootstrap_js_bootstrap.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongtech.com_ft_website_assets_plugins_bootstrap_css_bootstrap.css" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_bootstrap@3.3.7_dist_css_bootstrap.css" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_bootstrap_css_bootstrap.css" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongbao.com_ft_website_assets_plugins_bootstrap_js_bootstrap.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_q.aiyongtech.com_ft_website_assets_plugins_bootstrap_css_bootstrap.css" />
       </CLASSES>
       <SOURCES />
     </library>
